@@ -8,4 +8,5 @@ Small docker image with some helpful binaries
 * telnet
 * traceroute
 * wget
+* tcpdump
 * httpie (not in minimal version)
